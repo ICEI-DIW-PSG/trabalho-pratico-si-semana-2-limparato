@@ -3,9 +3,8 @@
 # template-diw-20251-semana-02
 
 ## Informações Gerais
-- Nome: 
-- Matricula:
+- Nome: Lucas Imparato
+- Matricula: 892034
 
 ## Print da tela da página criada (Curriculum Vitae)
-
-`<Coloque aqui o print da tela de inspeção do seu navegador>`
+<img width="1078" height="1876" src="Imagem/Print.png">
